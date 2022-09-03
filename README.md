@@ -4,7 +4,9 @@
 <a href="mailto:nurhatmentes@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 
 <strong>Stats:</strong><br>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=NurhatMentes&show_icons=true&theme=merko)
 <br>
 <strong>Languages Most Used:</strong><br>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NurhatMentes&theme=blue-green)
